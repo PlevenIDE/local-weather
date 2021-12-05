@@ -9,7 +9,7 @@ body {
 
 /* weather app container */
 .weather-container {
-  background-image: linear-gradient(to top, #256179, #33c0d3);
+  background-image: linear-gradient(to top, #222222, #333336);
   color: #e3f2fd;
   width: 16rem;
   height: 25rem;
